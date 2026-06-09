@@ -1,4 +1,4 @@
-#sistema IoT de monitoramento de capsula espacial
+sistema IoT de monitoramento de capsula espacial
 
 - Sensores: TMP36 (temp), LDR (luminosidade), Tilt (vibracao)
 - Classificacao automatica: Normal / Atencao / Emergencia
